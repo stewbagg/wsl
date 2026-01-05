@@ -9,7 +9,7 @@
       <img src="assets/wsl.png" alt="WSL logo" width="80" height="80">
    </a>
 
-   <h3 align="center">Dotfiles</h3>
+   <h3 align="center">WSL</h3>
 
    <p align="center">
       Configuration files for my WSL environment.
