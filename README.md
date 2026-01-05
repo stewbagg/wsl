@@ -44,11 +44,11 @@ Goals:
 
 ### Tech Stack
 
-- [![Windows][Windows.icon]][Windows-url]
 - [![Arch][Arch.icon]][Arch-url]
 - [![Git][Git.icon]][Git-url]
 - [![GitHub][GitHub.icon]][GitHub-url]
 - [![Neovim][Neovim.icon]][Neovim-url]
+- [![Windows][Windows.icon]][Windows-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
