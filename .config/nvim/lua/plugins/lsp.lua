@@ -79,6 +79,7 @@ return {
 
 			local servers = {
 				eslint = {},
+				gopls = {},
 				html_lsp = {},
 				jsonls = {},
 				lua_ls = {},
