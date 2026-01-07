@@ -1,5 +1,9 @@
 <a id="readme-top"></a>
 
+# WSL
+
+Brutalist configuration. Simple. Functional.
+
 # Installation
 
 1. Clone the repo
