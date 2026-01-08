@@ -78,12 +78,12 @@ return {
 			capabilities = vim.tbl_deep_extend("force", capabilities, require("cmp_nvim_lsp").default_capabilities())
 
 			local servers = {
+				clangd = {},
 				eslint = {},
 				html_lsp = {},
 				jsonls = {},
 				lua_ls = {},
 				marksman = {},
-				ts_ls = {},
 			}
 
 			require("mason").setup()

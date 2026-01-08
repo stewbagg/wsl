@@ -3,6 +3,8 @@ return {
 	build = ":TSUpdate",
 	opts = {
 		ensure_installed = {
+			"c",
+			"cpp",
 			"css",
 			"diff",
 			"git_config",
@@ -18,7 +20,6 @@ return {
 			"markdown",
 			"markdown_inline",
 			"query",
-			"typescript",
 			"vim",
 			"vimdoc",
 		},
