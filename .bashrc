@@ -22,3 +22,4 @@ git_branch() {
 }
 
 export PS1="\$(git_branch) \w $ "
+. "$HOME/.cargo/env"

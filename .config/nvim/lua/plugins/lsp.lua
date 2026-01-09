@@ -80,10 +80,12 @@ return {
 			local servers = {
 				clangd = {},
 				eslint = {},
+				gopls = {},
 				html_lsp = {},
 				jsonls = {},
 				lua_ls = {},
 				marksman = {},
+				rust_analyzer = {},
 			}
 
 			require("mason").setup()

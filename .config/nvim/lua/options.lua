@@ -1,4 +1,4 @@
-vim.cmd("colorscheme shine")
+vim.cmd("colorscheme industry")
 vim.o.guicursor = ""
 vim.o.number = true
 vim.o.relativenumber = true
